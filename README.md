@@ -6,6 +6,9 @@
 這是一個為 Adobe After Effects 撰寫的自動化腳本 (ExtendScript)。它可以幫助動態設計師快速將「自訂的 0~9 數字圖片與逗號圖片」自動綁定成一個可以平滑跳動的計數器 (Counter)，
 特別適合用在老虎機大獎、遊戲結算畫面或任何需要客製化數字字體的專案中。
 
+<img width="456" height="454" alt="image" src="https://github.com/user-attachments/assets/baed63cf-6aa3-4731-a10d-60125a883e3c" />
+
+
 ## ✨ 核心功能 (Features)
 
 全自動排版與置中：自動計算各個位數與逗號的總寬度，並完美置中於 1920x1080 畫面的正中央，節省大量手動對齊的時間。
