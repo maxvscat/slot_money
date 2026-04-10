@@ -12,14 +12,14 @@
 靈活的素材對應：UI 介面支援手動輸入素材檔名，無縫接軌不同的專案素材命名習慣。
 
 ## 🚀 使用方法 (How to Use)
-<pre>
+```
 + 準備素材：
-</pre>
+```
 將你的 0~9 數字圖片以及逗號圖片匯入至 After Effects 專案面板中。
 (預設檔名建議為 win_num_0.png ~ win_num_9.png 以及 win_num_Comma.png)
-<pre>
-+執行腳本：
-</pre>
+```
++ 執行腳本：
+```
 在 AE 頂部選單選擇 File➔Scripts➔Run Script File，然後選擇本腳本 Image_Counter.jsx。
 
 設定參數：
@@ -29,9 +29,9 @@
 間距設定 (預設數字間距 85px，逗號 30px)
 
 確認下方圖層對應名稱與你專案面板中的素材名稱一致。
-<pre>
-+一鍵生成：
-</pre>
+```
++ 一鍵生成：
+```
 點擊「產生計數器 (Create Counter)」，腳本會自動為你建立所需的 Comp 與控制器！
 
 ## 🛠️ 架構與運作原理 (Under the Hood)
