@@ -12,8 +12,9 @@
 靈活的素材對應：UI 介面支援手動輸入素材檔名，無縫接軌不同的專案素材命名習慣。
 
 ## 🚀 使用方法 (How to Use)
-
-#+準備素材：
+<pre>
+# +準備素材：
+</pre>pre>
 將你的 0~9 數字圖片以及逗號圖片匯入至 After Effects 專案面板中。
 (預設檔名建議為 win_num_0.png ~ win_num_9.png 以及 win_num_Comma.png)
 
