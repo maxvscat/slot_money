@@ -1,8 +1,7 @@
 ### slot_money
 ## AE 大獎數字計數器產生器 (AE Image Counter Generator)
 
-## [下載](https://raw.githubusercontent.com/maxvscat/slot_money/9e0a5e73826294c9223e726c03d7976386c84816/Image_Counter.jsx) 
-按右鍵另存下載
+## [按右鍵另存下載](https://raw.githubusercontent.com/maxvscat/slot_money/9e0a5e73826294c9223e726c03d7976386c84816/Image_Counter.jsx) 
 
 這是一個為 Adobe After Effects 撰寫的自動化腳本 (ExtendScript)。它可以幫助動態設計師快速將「自訂的 0~9 數字圖片與逗號圖片」自動綁定成一個可以平滑跳動的計數器 (Counter)，
 特別適合用在老虎機大獎、遊戲結算畫面或任何需要客製化數字字體的專案中。
