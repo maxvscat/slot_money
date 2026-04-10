@@ -13,7 +13,7 @@
 
 ## 🚀 使用方法 (How to Use)
 <pre>
-# +準備素材：
+# + 準備素材：
 </pre>
 將你的 0~9 數字圖片以及逗號圖片匯入至 After Effects 專案面板中。
 (預設檔名建議為 win_num_0.png ~ win_num_9.png 以及 win_num_Comma.png)
