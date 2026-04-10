@@ -7,6 +7,7 @@
 特別適合用在老虎機大獎、遊戲結算畫面或任何需要客製化數字字體的專案中。
 
 <img width="456" height="454" alt="image" src="https://github.com/user-attachments/assets/baed63cf-6aa3-4731-a10d-60125a883e3c" />
+![20260410-134249](https://github.com/user-attachments/assets/4642b4ad-54f2-44e6-bb67-620ea2874025)
 
 
 ## ✨ 核心功能 (Features)
